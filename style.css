@@ -1,0 +1,80 @@
+body {
+	background-image: url(https://images.unsplash.com/photo-1479981280584-037818c1297d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+	margin: 20px;
+}
+
+h1 {
+	color: #000272;
+	font-size: 50;
+	font-family: Livvic;
+	margin: 50;
+}
+
+h2 {
+	color: #FF6363;
+	font-size: 25;
+	font-family: Livvic;
+}
+
+p {
+	color: #000272;
+	font-size: 15;
+	font-family: Open Sans Condensed;
+}
+
+div {
+	color: #000272;
+	font-size: 15;
+	font-family: Open Sans Condensed;
+}
+
+a {
+	color: #000272;
+	text-decoration: none;
+	font-family: Open Sans Condensed;
+}
+
+a:hover {
+	color: #ff6363;
+}
+
+#bikinis {
+	margin-left: 15;
+	color: #8b4367;
+}
+
+#swimsuits {
+	margin-left: 25px;
+	color: #382039;
+}
+
+.a1 {
+	text-decoration: underline;
+}
+.a2 {
+	color: #fcf9ea;
+	border: solid;
+	margin: none;
+}
+
+.container-fluid {
+	margin: 20px;
+	text-decoration: underline;
+}
+
+footer {
+	margin-top: 50px;
+	background-color: #0b032d;
+}
+
+#footer {
+	color: #fcf9ea;
+}
+
+.fab {
+	color: #ff6363;
+}
+.far {
+	color: #ff6363;
+}
+
